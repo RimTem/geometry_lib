@@ -1,3 +1,3 @@
-module https://github.com/RimTem/geometry_lib
+module github.com/RimTem/geometry_lib
 
 go 1.22.0
